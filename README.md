@@ -1,6 +1,6 @@
-# Auto-KB（打包版）
+# Auto-KB
 
-一键在 Linux 服务器上跑通的最小可用 RAG Demo：PDF/MD/TXT 摄取、BM25+向量融合、Cross-Encoder 重排、可溯源引用和置信度/拒答、FastAPI + Gradio 前端、支持增量索引。
+一键在 Linux 服务器上跑通的 RAG Demo：PDF/MD/TXT 摄取、BM25+向量融合、Cross-Encoder 重排、可溯源引用和置信度/拒答、FastAPI + Gradio 前端、支持增量索引。
 
 ## 快速开始
 ```bash
